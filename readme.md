@@ -13,6 +13,7 @@ El siguiente reto de programación consiste en crear un backend el cual pueda co
 Para iniciar el servidor de express ejecutar lo siguiente
 
 ```bash
+npm install
 npm run start
 ```
 
