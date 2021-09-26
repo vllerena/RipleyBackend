@@ -12,7 +12,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 db.sequelize.sync();
-// NOTA: Si es una nueva instancia puede descomentar las siguientes lineas
+// NOTA: Si se desea limpiar la tabla e iniciarla con cambios puede descomentar las siguientes lineas
 // db.sequelize.sync({ force: true }).then(() => {
 //     console.log("Tablas eliminadas, migraciones ejecutadas nuevamente.");
 // });

@@ -8,20 +8,21 @@ El siguiente reto de programación consiste en crear un backend el cual pueda co
 
 3. Endpoint para listar clientes
 
-Nota: El modelo de clientes es el siguiente:
-
-Clientes{
-    nombres string,
-    apellidos string,
-    fecha de nacimiento date
-}
-
 ## Comandos a utilizar
 
 Para iniciar el servidor de express ejecutar lo siguiente
 
 ```bash
 npm run start
+```
+
+Si va a testear el proyecto de manera local recordar que la configuración de mySql es la siguiente 
+
+```bash
+host: '127.0.0.1',
+user: 'root',
+password: 'root',
+database: 'ripleyBackend',
 ```
 
 ## Documentacion en Postman
