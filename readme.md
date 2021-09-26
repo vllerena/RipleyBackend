@@ -16,10 +16,21 @@ Clientes{
     fecha de nacimiento date
 }
 
+## Comandos a utilizar
+
+Para iniciar el servidor de express ejecutar lo siguiente
+
+```bash
+npm run start
+```
+
 ## Documentacion en Postman
-También pueden visualizar la documentación de los endpoints:
+Pueden visitar la documentación de los endpoints:
 
 [![Postman](https://run.pstmn.io/button.svg)](https://documenter.getpostman.com/view/11973590/UUxxh8XY)
+
+## Despliege en Heroku
+Pueden hacer uso de la app desplegada en Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
