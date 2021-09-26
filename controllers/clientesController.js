@@ -1,4 +1,3 @@
-const { sequelize } = require('../models');
 const db = require('../models')
 const Clientes = db.clientes
 
