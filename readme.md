@@ -33,5 +33,5 @@ Pueden visitar la documentación de los endpoints:
 ## Despliege en Heroku
 Pueden hacer uso de la app desplegada en Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://reto-ripley-backend.herokuapp.com/)
 
