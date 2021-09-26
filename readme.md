@@ -36,5 +36,7 @@ Pueden hacer uso de la app desplegada en Heroku:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://reto-ripley-backend.herokuapp.com/)
 
 ## Tecnologías
-** NodeJS
-
+* NodeJS
+* ExpressJS
+* Sequelize ORM
+* MySQL
